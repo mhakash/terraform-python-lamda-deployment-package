@@ -1,0 +1,5 @@
+.terraform
+/builds
+response.json
+*.tfstate
+*.tfstate.backup
